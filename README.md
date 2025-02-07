@@ -1,2 +1,7 @@
 # VectorCalendary
-A special web-based android application for the Vector career guidance unit, aimed at optimizing planning and recording for squad events
+
+
+> [!NOTE]
+> Специальное web-android приложение для профориентационного отряда "Вектор" РТУ МИРЭА, 
+> нацеленное на оптимизацию планирования и записи на мероприятия отряда
+
