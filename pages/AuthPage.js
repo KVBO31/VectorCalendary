@@ -28,6 +28,9 @@ export const AuthScreen = ({ navigation }) => {
 	const [loading, setLoading] = useState(false);
 
 	const handleLogin = async () => {
+		// Для тестов
+		navigation.navigate("Main");
+		
 		setLoading(true);
 
 		try {
